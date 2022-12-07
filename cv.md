@@ -1,2 +1,2 @@
 Natallia Khval
-Head of Docimentary operations division, International Department, JSC Belinvestbank
+Head of Documentary operations division, International Department, JSC Belinvestbank
