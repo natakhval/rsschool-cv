@@ -33,7 +33,7 @@ body {
     text-decoration: none;  
     font-size: 12px;
     font-weight: 700;
-    width: 180px;
+    width: 200px;
     height: 69px;
     display: block;
     margin-top: 0 auto;
@@ -55,12 +55,13 @@ img {
     font-size: 18px;
     font-style: oblique;
     color: maroon;
+    list-style: none;
  }
 .footer {
     padding: 120px;
     font-weight: 300;
     font-size: 15px;
-    text-align: center;
+    align-items: baseline;
 }
 .container {
     width: 1110px;
@@ -89,10 +90,7 @@ h2 {
     padding-top: 30px;
     align-items: center;
 }
-.section {
-    width: 50%;
-  }
-  @media (max-width: 768px) {
+@media (max-width: 768px) {
     .section {
       width: 100%;
     }
